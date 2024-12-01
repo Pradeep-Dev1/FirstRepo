@@ -1,3 +1,3 @@
 # FirstRepo
-My first repository
-<b> I am learning Github </br> </br>
+My first repository </br> </br>
+<b> I am learning Github 
